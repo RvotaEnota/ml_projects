@@ -10,5 +10,6 @@
 ## Список проектов
 
 | № | Наименование проекта | Задача | Инструменты |
+|---|----------------------|--------|-------------|
 |1|[cab_predict](https://github.com/RvotaEnota/yap_projects/tree/main/cab_predict)|Построить модель, предсказывающую количество заказов такси на следующий час с помощью временных рядов|pandas, numpy, seaborn, matplotlib, statsmodels, scikit-learn|
 
